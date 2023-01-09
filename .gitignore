@@ -2,3 +2,4 @@ venv/
 .vscode/
 *.whl
 *.tif
+__pycache__/
