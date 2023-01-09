@@ -3,3 +3,4 @@ venv/
 *.whl
 *.tif
 __pycache__/
+output_dir/
