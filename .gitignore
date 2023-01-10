@@ -4,3 +4,4 @@ venv/
 *.tif
 __pycache__/
 output_dir/
+tiles/
