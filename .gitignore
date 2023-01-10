@@ -5,3 +5,5 @@ venv/
 __pycache__/
 output_dir/
 tiles/
+*.png
+*.png.aux.xml
